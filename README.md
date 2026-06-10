@@ -135,7 +135,7 @@ print(response)
 
 ---
 
-## 🔥 Standout Feature (Add This to Impress)
+## 🔥 Standout Feature 
 
 ### Adaptive Retrieval Strategy
 - Dynamically adjusts Top-K based on query complexity  
